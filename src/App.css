@@ -8,7 +8,6 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 0;
 }
 
 .side-menu-section {
@@ -40,9 +39,8 @@ h1 {
   flex-direction: row;
   justify-content: space-around;
   text-align: center;
-  margin-top: 10vh;
+  margin-bottom: 0;
 }
-
 .chart-item {
   background-color: #fff;
   border: 1px solid transparent;

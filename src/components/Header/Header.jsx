@@ -10,6 +10,7 @@ function Header() {
           <h4>Log Out</h4>
         </div>
       </header>
+      <div className="spacer"></div>
     </>
   );
 }

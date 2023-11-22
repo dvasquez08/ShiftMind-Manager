@@ -9,7 +9,6 @@ function App() {
     <>
       <Header />
       {/* Beginning of main content section */}
-
       <div className="main-container">
         <div className="side-menu-section">
           <SideMenu />
