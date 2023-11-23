@@ -11,7 +11,7 @@ body {
 }
 
 .side-menu-section {
-  background-color: #274c77;
+  background-image: linear-gradient(#274c77, #3669a3);
 }
 
 .dashboard,

@@ -8,13 +8,13 @@ function SideMenu() {
       <section>
         <ul>
           <li>
-            <a>Main Menu</a>
+            <Link to="/">Main Menu</Link>
           </li>
           <li>
             <a>Schedule</a>
           </li>
           <li>
-            <Link to="/shift-logs">Shift Logs</Link>
+            <Link to="/shiftlogs">Shift Logs</Link>
           </li>
           <li>
             <Link to="/accounts">Accounts</Link>
