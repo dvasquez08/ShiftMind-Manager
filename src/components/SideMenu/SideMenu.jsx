@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./SideMenu.css";
 
 function SideMenu() {
@@ -13,10 +14,10 @@ function SideMenu() {
             <a>Schedule</a>
           </li>
           <li>
-            <a>Staff Logs</a>
+            <Link to="/shift-logs">Shift Logs</Link>
           </li>
           <li>
-            <a>Accounts</a>
+            <Link to="/accounts">Accounts</Link>
           </li>
         </ul>
       </section>
