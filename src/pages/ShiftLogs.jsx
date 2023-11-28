@@ -13,7 +13,7 @@ function ShiftLogs() {
           <SideMenu />
         </div>
         <div className="shiftlog-content">
-          <h1>Shift Logs</h1>
+          <h1>Staff Shift Logs</h1>
         </div>
       </div>
       <Footer />
